@@ -2,6 +2,7 @@
 **Classificação de Cães e Gatos**  
 Disciplina de Inteligência Artificial – Ciência da Computação – IFSC Lages
 Alunos: Felipe R Branco, Bernardo Floriani, Cesar Machado, Joao Vitor Sutil
+
 ---
 
 ## Estrutura do Projeto
